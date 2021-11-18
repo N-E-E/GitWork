@@ -1,4 +1,4 @@
 this is a txt.
 testing the branch function...
 creating a new branch is quick and simple.
-git is free software
+git is a free software
