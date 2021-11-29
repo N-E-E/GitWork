@@ -1,0 +1,161 @@
+/* CSS Document */
+
+body,
+ul,
+ol,
+li,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+form,
+fieldset,
+table,
+td,
+img,
+div {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: "Times New Roman", Times, serif;
+}
+
+body {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 12px;
+    color: #000000;
+    line-height: 20px;
+    text-align: left
+}
+
+ul,
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.head {
+    width: 1002px;
+    margin: 0 auto;
+    text-align: left;
+    height: 160px;
+}
+
+.page {
+    width: 1002px;
+    margin: 0 auto;
+    background: #FFFFFF;
+    padding-top: 5px;
+}
+
+.nav {
+    width: 1002px;
+    height: 30px;
+    background: url("../../images/nav_bg.gif") repeat-x;
+    line-height: 30px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.nav a {
+    color: #efe219;
+    margin-left: 80px;
+}
+
+.foot {
+    width: 1002px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+.content {
+    width: 1002px;
+    padding: 30px 0;
+    text-align: left;
+}
+
+.guntu {
+    width: 1002px;
+    height: 160px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding-bottom: 10px;
+}
+
+.guntu img {
+    margin-left: 10px;
+}
+
+.jianzhu {
+    width: 982px;
+    height: 26px;
+    margin: 0 auto;
+    background: #9c0305;
+    line-height: 26px;
+}
+
+.jianzhu p {
+    line-height: 26px;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 14px;
+    text-align: left;
+    text-indent: 10px;
+}
+
+.jianzhu_bot {
+    width: 982px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding-top: 20px;
+}
+
+.jianzhuA {
+    width: 440px;
+    float: left;
+    margin-left: 40px;
+    display: inline;
+    text-align: left
+}
+
+.meishi {
+    width: 760px;
+    margin: 0 auto;
+    padding: 30px;
+    text-align: left;
+}
+
+.meishi h3 {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 30px;
+    padding: 10px 0;
+}
+
+.aa li {
+    line-height: 40px;
+    font-size: 16px;
+}
+
+.aa li a {
+    color: #000;
+    font-weight: bold;
+}
+
+.aa li a锛歨over {
+    color: #f00;
+}
